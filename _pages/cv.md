@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Earth and Planetary Sciences, Harvard University (2016 - Present)
+* B.A. in Physics and Math (double major), UC Davis (2013 - 2016)
 
-Work experience
+Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016 William Benjamin and Jill Kowal Graduate Aid Fund in Environmental Studies, Harvard University
+* 2016 Saxon Patten Prize for Physics, UC Davis Physics Department
+* 2016 Distinguished Graduate, UC Davis Physics Department
+* 2015 Robert Lewis Wasser Memorial Prize, UC Davis Mathematics Department
+* 2013 Edward Frank Kraft Prize, UC Davis
 
 Publications
 ======
@@ -53,4 +39,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Professional Activities
+======
+* Reviewer for Geophysical Research Letters
+* Member of AGU and AMS
+
+Skills
+======
+* Python, Matlab, Fortran
+* Numerical Methods for PDEs
+    * Parallel computing (e.g., MPI)
+
