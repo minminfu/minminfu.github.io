@@ -1,11 +1,11 @@
 ---
 permalink: /misc/
-title: "Markdown"
+title: "Code and Miscellaneous"
 author_profile: true
 redirect_from: 
   - /code/
   - /misc.html
 ---
 
-## Under Construction
+## Page Under Construction
 
