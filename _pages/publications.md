@@ -17,7 +17,7 @@ author_profile: true
 
 <b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Wetter Subtropics Lead to Reduced Pliocene Coastal Upwelling. *Paleoceanography, Submitted*
 
-<b>Fu, M.</b> & Tziperman, E. (2021). A model study of the role of convection in the dynamics of westerly wind bursts. *Journal of CLimate*
+<b>Fu, M.</b> & Tziperman, E. (2021). A model study of the role of convection in the dynamics of westerly wind bursts. *Journal of Climate*
 
 <b>Fu, M.</b> & Tziperman, E. (2019). Essential ingredients to the dynamics of westerly wind bursts. *Journal of Climate*
 
