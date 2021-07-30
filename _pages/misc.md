@@ -7,5 +7,9 @@ redirect_from:
   - /misc.html
 ---
 
-## Page Under Construction
+## Under Construction
+Please visit this page in the future for code and documentation!
+
+## More about me
+I grew up in Fremont, California in the San Francisco Bay Area. Outside of research, I love classical music and have an interest in violin and guitar.  
 
