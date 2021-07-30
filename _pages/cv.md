@@ -16,6 +16,7 @@ Education
 
 Awards
 ======
+* 2019 Harvard University Certificate of Distinction in Teaching, Bok Center
 * 2016 William Benjamin and Jill Kowal Graduate Aid Fund in Environmental Studies, Harvard University
 * 2016 Saxon Patten Prize for Physics, UC Davis Physics Department
 * 2016 Distinguished Graduate, UC Davis Physics Department
@@ -24,26 +25,23 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Talks and Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Global Warming Science (EPS101)
+* Confronting Climate Change (GenEd1094)
+* Applied Linear Algebra and Big Data (AM120)
 
 Professional Activities
 ======
 * Reviewer for Geophysical Research Letters
 * Member of AGU and AMS
+
+Outreach
+======
 
 Skills
 ======
