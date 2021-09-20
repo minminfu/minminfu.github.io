@@ -1,7 +1,7 @@
 ---
 permalink: /misc/
 title: "Code and Miscellaneous"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /code/
   - /misc.html

@@ -196,7 +196,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false #MJFU
       read_time: true
       comments: true
       share: true
@@ -206,15 +206,15 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: single # MJFU
+      author_profile: false #MJFU
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false # MJFU
       share: true
       comments: true
   # _publications
@@ -223,7 +223,7 @@ defaults:
       type: publications
     values:
       layout: default
-      author_profile: true
+      author_profile: false #MJFU
       share: true
       comments: true
   # _portfolio
