@@ -9,6 +9,9 @@ author_profile: false
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## In Preparation
+<b>Fu, M.</b> & Baum, M. (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
+
 ## Submitted/In Press
 
 <b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography, Submitted*
