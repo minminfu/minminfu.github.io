@@ -10,17 +10,19 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
-<b>Fu, M.</b> & Baum, M. (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
+Baum, M. &<b>Fu, M.</b> (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
+
+<b>Fu, M.</b>& Baum, M. (2022). Thermodynamic and infiltration-limited silicate weathering in hothouse climates.
 
 ## Submitted/In Press
 
-<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography, Submitted*
+<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2022). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography, Accepted*
 
-<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Wetter Subtropics Lead to Reduced Pliocene Coastal Upwelling. *Paleoceanography, Submitted*
+<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Wetter Subtropics Lead to Reduced Pliocene Coastal Upwelling. *Paleoceanography*, 36(10):e2021PA004243.
 
-<b>Fu, M.</b> & Tziperman, E. (2021). A model study of the role of convection in the dynamics of westerly wind bursts. *Journal of Climate*
+<b>Fu, M.</b> & Tziperman, E. (2021). A model study of the role of convection in the dynamics of westerly wind bursts. *Journal of Climate*, 34(15):6235–6246
 
-<b>Fu, M.</b> & Tziperman, E. (2019). Essential ingredients to the dynamics of westerly wind bursts. *Journal of Climate*
+<b>Fu, M.</b> & Tziperman, E. (2019). Essential ingredients to the dynamics of westerly wind bursts. *Journal of Climate*, 32(17):5549–5565
 
 ## Book Chapters
 
