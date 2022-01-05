@@ -10,9 +10,9 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
-Baum, M. &<b>Fu, M.</b> (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
+Baum, M. & <b>Fu, M.</b> (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
 
-<b>Fu, M.</b>& Baum, M. (2022). Thermodynamic and infiltration-limited silicate weathering in hothouse climates.
+<b>Fu, M.</b> & Baum, M. (2022). Thermodynamic and infiltration-limited silicate weathering in hothouse climates.
 
 ## Submitted/In Press
 
