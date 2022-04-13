@@ -10,13 +10,18 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
-Baum, M. & <b>Fu, M.</b> (2022). Revisiting the role of continental configuration and breakup on weathering and initiation of "Snowball Earth" under thermodynamic limits.
 
-<b>Fu, M.</b> & Baum, M. (2022). Thermodynamic and infiltration-limited silicate weathering in hothouse climates.
+<b>Fu, M.</b>, Baum, M., & Archer, D. (2022). Revisiting continental breakup and Snowball Earth initiation under thermodynamic limits.
 
 ## Submitted/In Press
 
-<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2022). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography, Accepted*
+Bhattacharya, T., Feng, R., Tierney, J.E., Knapp, S., Burls, N.J., & <b>Fu, M.</b> (2022). Expansion and intensification of the North American Monsoon during the Pliocene. *(submitted)*
+
+<b>Fu, M.</b> (2022). Western United States lake highstands during the last deglaciation as a response to warmth and orbital forcing. *(submitted)*
+
+Baum, M.&dagger;, <b>Fu, M.&dagger;</b>, & Bourguet, S. (2022). Sensitive dependence of global climate to continental geometry. *(submitted)*
+
+<b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2022). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography*, 37(2):e2021PA004357.
 
 <b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2021). Wetter Subtropics Lead to Reduced Pliocene Coastal Upwelling. *Paleoceanography*, 36(10):e2021PA004243.
 
@@ -26,4 +31,6 @@ Baum, M. & <b>Fu, M.</b> (2022). Revisiting the role of continental configuratio
 
 ## Book Chapters
 
-<b>Fu, M.</b> & Tziperman, E. (in press). "Clouds", *Global Warming Science*. Princeton University Press 
+<b>Fu, M.</b> & Tziperman, E. (2022). "Clouds", *Global Warming Science*. Princeton University Press 
+
+&dagger;: These authors contributed equally to the work.
