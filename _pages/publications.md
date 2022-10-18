@@ -11,15 +11,15 @@ author_profile: false
 
 ## In Preparation
 
-<b>Fu, M.</b>, Baum, M., & Archer, D. (2022). Revisiting continental breakup and Snowball Earth initiation under thermodynamic limits.
+<b>Fu, M.</b> (2022). Revisiting western United States hydroclimate during the last deglaciation.
 
 ## Submitted/In Press
 
-Bhattacharya, T., Feng, R., Tierney, J.E., Knapp, S., Burls, N.J., & <b>Fu, M.</b> (2022). Expansion and intensification of the North American Monsoon during the Pliocene. *(submitted)*
+Baum, M. & <b>Fu, M.</b> (2022). Simple Stochastic Modeling of Snowball Probability Throughout Earth History. *(Accepted, Geochemistry, Geophysics, Geosystems )*
 
-<b>Fu, M.</b> (2022). Western United States lake highstands during the last deglaciation as a response to warmth and orbital forcing. *(submitted)*
+Bhattacharya, T., Feng, R., Tierney, J.E., Knapp, S., Burls, N.J., & <b>Fu, M.</b> (2022). Expansion and intensification of the North American Monsoon during the Pliocene. *(Accepted, AGU Advances)*
 
-Baum, M.&dagger;, <b>Fu, M.&dagger;</b>, & Bourguet, S. (2022). Sensitive dependence of global climate to continental geometry. *(submitted)*
+Baum, M, <b>Fu, M.</b>, & Bourguet, S. (2022). Sensitive dependence of global climate to continental geometry. *Geophysical Research Letters*, e2022GL098843.
 
 <b>Fu, M.</b>, Cane, M.A., Molnar, P., & Tziperman, E. (2022). Warmer Pliocene upwelling site SST leads to wetter subtropical coastal areas: a positive feedback on SST. *Paleoceanography*, 37(2):e2021PA004357.
 
