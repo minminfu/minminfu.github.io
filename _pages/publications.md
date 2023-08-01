@@ -11,13 +11,15 @@ author_profile: false
 
 ## In Preparation
 
-<b>Fu, M.</b> (2022). Revisiting western United States hydroclimate during the last deglaciation.
-
 ## Submitted/In Press
 
-Baum, M. & <b>Fu, M.</b> (2022). Simple Stochastic Modeling of Snowball Probability Throughout Earth History. *(Accepted, Geochemistry, Geophysics, Geosystems )*
+<b>Fu, M.</b>, Fedorov, A. (2023) The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. (*Submitted*)
 
-Bhattacharya, T., Feng, R., Tierney, J.E., Knapp, S., Burls, N.J., & <b>Fu, M.</b> (2022). Expansion and intensification of the North American Monsoon during the Pliocene. *(Accepted, AGU Advances)*
+<b>Fu, M.</b> (2023). Revisiting western United States hydroclimate during the last deglaciation. *Geophysical Research Letters*, 50(3), e2022GL101997.
+
+Baum, M., & <b>Fu, M.<b> (2022). Simple Stochastic Modeling of Snowball Probability Throughout Earth History. *Geochemistry, Geophysics, Geosystems*, 23(11), e2022GC010611.
+
+Bhattacharya, T., Feng, R., Tierney, J. E., Rubbelke, C., Burls, N., Knapp, S., & <b>Fu, M.<b> (2022). Expansion and intensification of the North American Monsoon during the Pliocene. *AGU Advances*, 3(6), e2022AV000757.
 
 Baum, M, <b>Fu, M.</b>, & Bourguet, S. (2022). Sensitive dependence of global climate to continental geometry. *Geophysical Research Letters*, e2022GL098843.
 
