@@ -10,10 +10,15 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
+<b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle
 
-## Submitted/In Press
+## Submitted
 
-<b>Fu, M.</b>, Fedorov, A. (2023) The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. (*Submitted*)
+<b>Fu, M.</b>, Abbot, D., Koeberl, C., & Fedorov, A. (2023) Impact-induced initiation of Snowball Earth: A model study (*under review, Science Advances*)
+
+## Published/Accepted
+
+<b>Fu, M.</b> & Fedorov, A. (2023) The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. (*Accepted, Geophysical Research Letters*)
 
 <b>Fu, M.</b> (2023). Revisiting western United States hydroclimate during the last deglaciation. *Geophysical Research Letters*, 50(3), e2022GL101997.
 
