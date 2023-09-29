@@ -18,7 +18,7 @@ author_profile: false
 
 ## Published/Accepted
 
-<b>Fu, M.</b> & Fedorov, A. (2023) The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. (*Accepted, Geophysical Research Letters*)
+<b>Fu, M.</b> & Fedorov, A. (2023). The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. *Geophysical Research Letters*, 50, e2023GL105061.
 
 <b>Fu, M.</b> (2023). Revisiting western United States hydroclimate during the last deglaciation. *Geophysical Research Letters*, 50(3), e2022GL101997.
 
