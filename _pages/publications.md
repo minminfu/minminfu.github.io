@@ -10,13 +10,16 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
-<b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle
+Koepnick, K., <b>Fu, M.</b>, & Tziperman, E. (2024). Investigating the surface mass balance of the Laurentide Ice Sheet during the Last Deglaciation using iTraCE. *(in prep)*
 
 ## Submitted
+Borreggine, M., Powell, E.M., <b>Fu, M.</b>, Yang, X., Weeks, E., Zhang, B., Wilkinson, K., Mitrovica, J.X., Tryon, C., & Meadow, R. (2024). Combining Paleocurrents and Sea Level in a Least-Cost Pathway Model of Human Dispersal from Sunda to Sahul, 65–45,000 Years Ago. *(in revision)*
 
-<b>Fu, M.</b>, Abbot, D., Koeberl, C., & Fedorov, A. (2023) Impact-induced initiation of Snowball Earth: A model study (*under review, Science Advances*)
+<b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle. *(in revision)*
 
 ## Published/Accepted
+
+<b>Fu, M.</b>, Abbot, D., Koeberl, C., & Fedorov, A. (2023) Impact-induced initiation of Snowball Earth: A model study. *Science Advances*, 10(6), eadk5489.
 
 <b>Fu, M.</b> & Fedorov, A. (2023). The role of Bjerknes and shortwave feedbacks in the tropical Pacific SST response to global warming. *Geophysical Research Letters*, 50, e2023GL105061.
 
