@@ -10,9 +10,12 @@ author_profile: false
 {% endif %}
 
 ## In Preparation
-Koepnick, K., <b>Fu, M.</b>, & Tziperman, E. (2024). Investigating the surface mass balance of the Laurentide Ice Sheet during the Last Deglaciation using iTraCE. *(in prep)*
+Koepnick, K., <b>Fu, M.</b>, & Tziperman, E. (2024). Investigating the surface mass balance of the Laurentide Ice Sheet during the Last Deglaciation. *(in prep)*
 
 ## Submitted
+
+Stuivenvolt-Allen, J., Fedorov, A., <b>Fu, M.</b>, & Heede, U. (2024). Widening of wind-stress anomalies amplifies ENSO in a warming climate. *(submitted)*
+
 Borreggine, M., Powell, E.M., <b>Fu, M.</b>, Yang, X., Weeks, E., Zhang, B., Wilkinson, K., Mitrovica, J.X., Tryon, C., & Meadow, R. (2024). Combining Paleocurrents and Sea Level in a Least-Cost Pathway Model of Human Dispersal from Sunda to Sahul, 65–45,000 Years Ago. *(in revision)*
 
 <b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle. *(in revision)*
