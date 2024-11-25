@@ -9,18 +9,17 @@ author_profile: false
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## In Preparation
-Koepnick, K., <b>Fu, M.</b>, & Tziperman, E. (2024). Investigating the surface mass balance of the Laurentide Ice Sheet during the Last Deglaciation. *(in prep)*
-
 ## Submitted
 
-Stuivenvolt-Allen, J., Fedorov, A., <b>Fu, M.</b>, & Heede, U. (2024). Widening of wind-stress anomalies amplifies ENSO in a warming climate. *(submitted)*
+Koepnick, K., <b>Fu, M.</b>, & Tziperman, E. (2024). Comparing the surface mass balance of the Laurentide Ice Sheet during the last deglaciation with geophysical reconstructions. *(in revision)*
 
 Borreggine, M., Powell, E.M., <b>Fu, M.</b>, Yang, X., Weeks, E., Zhang, B., Wilkinson, K., Mitrovica, J.X., Tryon, C., & Meadow, R. (2024). Combining Paleocurrents and Sea Level in a Least-Cost Pathway Model of Human Dispersal from Sunda to Sahul, 65–45,000 Years Ago. *(in revision)*
 
-<b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle. *(in revision)*
-
 ## Published/Accepted
+
+<b>Fu, M.</b> & Fedorov, A. (2023) Influence of an active Pacific Meridional Overturning Circulation on the mid-Pliocene climate and hydrological cycle. *Earth adn Plnaetary Science Letters*, 642, 118878.
+
+Stuivenvolt-Allen, J., Fedorov, A., <b>Fu, M.</b>, & Heede, U. (2024). Widening of wind-stress anomalies amplifies ENSO in a warming climate. *Journal of Climate*, 
 
 <b>Fu, M.</b>, Abbot, D., Koeberl, C., & Fedorov, A. (2023) Impact-induced initiation of Snowball Earth: A model study. *Science Advances*, 10(6), eadk5489.
 

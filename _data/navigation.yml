@@ -5,9 +5,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Openings"
+    url: /openings/    
     
   - title: "Misc"
     url: /misc/
     
   - title: "CV"
-    url: /files/Fu_CV_04_2024.pdf
+    url: /files/Fu_CV_11_2024.pdf
