@@ -1,5 +1,5 @@
 ---
-permalink: /misc/
+permalink: /openings/
 title: "Group Openings"
 author_profile: false
 redirect_from: 
