@@ -9,8 +9,5 @@ main:
   - title: "Openings"
     url: /openings/    
     
-  - title: "Misc"
-    url: /misc/
-    
   - title: "CV"
     url: /files/Fu_CV_11_2024.pdf
